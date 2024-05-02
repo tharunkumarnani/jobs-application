@@ -1,0 +1,44 @@
+.job-item{
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 7px;
+    text-align: left;
+    border-bottom: #475569 1px solid;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+h1{
+    margin: 1px;
+}
+p{
+    margin: 10px 0px;
+}
+.title-loc{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+}
+.icons-des{
+    display: flex;
+    align-items: center;
+}
+.icons-des p{
+    margin-left: 5px;
+}
+.apply-btn{
+    background-color: #b6c5ff;
+    padding: 10px 20px;
+    font-size: 15px;
+    border: 0;
+    outline: none;
+    border-radius: 7px;
+    color: white;
+    cursor: pointer;
+}
+
+.apply-btn:hover{
+    background-color: #4f46e5;
+}

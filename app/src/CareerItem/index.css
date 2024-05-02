@@ -1,0 +1,19 @@
+.career-item{
+    padding: 10px;
+    margin-bottom: 7px;
+    text-align: left;
+    border-bottom: #000 1px solid;
+    color: #ffffff;
+    font-weight: 600;
+}
+.title-apply{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+@media (max-width:768px){
+    .title{
+        font-size: 25px;
+    }
+}
